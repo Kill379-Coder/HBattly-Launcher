@@ -1,2 +1,1 @@
-# HBattly-Launcher
-
+# Battly Launcher
